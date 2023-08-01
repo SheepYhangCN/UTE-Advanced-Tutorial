@@ -1,0 +1,1 @@
+move[DIR.UP]=4;
