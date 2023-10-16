@@ -8,7 +8,7 @@
 |<a href="https://www.bilibili.com/video/BV19h411c7k1/">#3</a>|01:04 - 摇摆转移到步事件使得enemy可移动<br>02:34 - 打字机的颜色指令和自定义指令<br>07:37 - macro和enum<br>11:05 - camera的用法<br>13:52 - 闪屏<br>16:19 - lengthdir和point_direction<br>18:52 - 常用的string函数<br>24:54 - Border|已发布✅|
 |<a href="https://www.bilibili.com/video/BV1JN411h7xP/">#4 - 主世界专讲</a>|01:23 - 通过ini存档修复存档系统（由于意外，为文字描述）<br>01:35 - char_sign用法<br>03:15 - 打字机的face<br>05:18 - 让char的子物体移动<br>07:49 - hint和trigger相关<br>12:43 - 尖刺和拉杆|已发布✅|
 #5 - 弹幕专讲|战斗框<br>骨头、骨墙<br>Gaster Blaster<br>板子<br>一字米字十字炸弹<br>撞击性弹幕（友谊颗粒等）<br>Dusttrust刀光<br>圆形光波<br>枪击|等待录制🎥|
-#6|灵魂的切换特效<br>利用keyboard_string制作输入框<br><a herf="https://github.com/TML233/UndertaleEngine/pull/118">UndertaleEngine #118</a>|等待开始❌|
+#6|灵魂的切换特效<br>利用keyboard_string制作输入框<br><a href="https://github.com/TML233/UndertaleEngine/pull/118">UndertaleEngine #118</a>|等待开始❌|
 ## 附加
 <a href=https://github.com/TML233/UndertaleEngine>UNDERTALE Engine</a> by <a href=https://github.com/TML233>糖萌芦</a><br>
 <a href=https://www.bilibili.com/video/BV1V5411o7BX>UNDERTALE Engine基础教程</a> by <a href=https://space.bilibili.com/512943967>天机Ceyase</a><br>
